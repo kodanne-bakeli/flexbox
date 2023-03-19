@@ -1,17 +1,20 @@
-*{
+* {
     padding: 0;
     margin: 0;
 }
-header{
-    background-color: rgb(132, 132, 250);
+
+header {
+    background-color: #00CCFF;
     text-align: center;
 }
-main{
+
+main {
     background-color: gold;
     padding: 272px 0px;
     text-align: center;
 }
-footer{
+
+footer {
     background-color: lawngreen;
     text-align: center;
 }
